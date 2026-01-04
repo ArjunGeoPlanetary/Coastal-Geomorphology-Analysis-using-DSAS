@@ -1,7 +1,7 @@
 # Coastal-Geomorphology-Analysis-using-DSAS
 Research Publication : Research focused on the assessment of geomorphological changes along Indian coastlines. This study utilized multi-temporal satellite imagery to map shoreline migration and predict future erosion/accretion trends.
 
-# Coastal Shoreline Change Analysis & Prediction (DSAS)
+# Coastal Shoreline Change Analysis & Prediction (DSAS)-https://doi.org/10.1016/j.geogeo.2023.100179
 
 ## Project Overview
 A time-series study (2011–2021) of the southwest coast of India using satellite imagery to quantify the impact of engineering structures (harbours) on shoreline stability.
